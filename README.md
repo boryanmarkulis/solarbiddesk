@@ -1,2 +1,5 @@
-# solarbiddesk
-SolarBidDesk — scored public solar/storage/EV-charger tenders (Regenify)
+# SolarBidDesk
+
+Scored public tenders for solar, storage and EV chargers. Free weekly digest + paid feed.
+
+Site: https://solarbiddesk.com (GitHub Pages).

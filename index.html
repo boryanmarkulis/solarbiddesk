@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SolarBidDesk – scored public solar, storage & EV-charger tenders</title>
+<meta name="description" content="Free weekly digest of US municipal, school and water-district solar, battery and EV-charger tenders. Paid feed: named bids, fit scores, source links.">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="avatar.png">
+<meta property="og:title" content="SolarBidDesk">
+<meta property="og:description" content="Scored public tenders for solar, storage and EV chargers. Free digest + paid feed.">
+<meta property="og:image" content="avatar.png">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"SolarBidDesk","description":"Scored public tenders for solar, storage and EV chargers.","parentOrganization":{"@type":"Organization","name":"Regenify"},"url":"https://solarbiddesk.com/"}
+</script>
+</head>
+<body>
+<header>
+  <a class="logo" href="/"><img src="avatar.png" width="48" height="48" alt="SolarBidDesk"><span>SolarBidDesk</span></a>
+  <nav><a href="#pricing">Pricing</a> · <a href="#digest">Free digest</a></nav>
+</header>
+<main class="wrap">
+  <section class="hero">
+    <p class="muted">Launch wedge: California · Texas · New York · school / municipal / water</p>
+    <h1>Find the public tenders worth bidding — before the inbox fills up.</h1>
+    <p>We scrape published RFPs for solar, battery storage and EV chargers from municipalities, school districts, water utilities and counties. Score them for installer/EPC fit. Free weekly digest; full named feed for subscribers.</p>
+    <p><a class="btn" href="#digest">Get the free weekly digest</a> <a class="btn ghost" href="#pricing">See Pro</a></p>
+  </section>
+
+  <section>
+    <h2>How it works</h2>
+    <div class="grid">
+      <div class="card"><h3>1. Scrape public boards</h3><p>State and local bid portals — not private deal chatter. Code pipelines, not browser babysitting.</p></div>
+      <div class="card"><h3>2. Score fit</h3><p>Due date, size band, tech match, buyer type, and how hard the bid package looks — transparent 0–100.</p></div>
+      <div class="card"><h3>3. Digest or full feed</h3><p>Free: anonymised themes. Paid: names, links, scores, CSV for your bid desk.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Sample (anonymised)</h2>
+    <p class="muted">Illustrative rows until the first scrape lands. Subscribers see agency names and source URLs.</p>
+    <div class="card" style="overflow:auto">
+      <table>
+        <thead><tr><th>ID</th><th>State</th><th>Buyer type</th><th>Tech</th><th>Due</th><th>Score band</th></tr></thead>
+        <tbody>
+          <tr><td>TB-CA-001</td><td>CA</td><td>School district</td><td>Solar + storage</td><td>~21 days</td><td>A (80–100)</td></tr>
+          <tr><td>TB-TX-014</td><td>TX</td><td>Municipal</td><td>EV chargers</td><td>~35 days</td><td>B (65–79)</td></tr>
+          <tr><td>TB-NY-007</td><td>NY</td><td>Water utility</td><td>Solar PV</td><td>~14 days</td><td>A (80–100)</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="pricing">
+    <h2>Pricing</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Free digest</h3>
+        <p class="price">US$0</p>
+        <ul class="checks"><li>Weekly email</li><li>Counts by state and tech</li><li>Anonymised top themes</li></ul>
+        <p><a class="btn ghost" href="#digest">Subscribe free</a></p>
+      </div>
+      <div class="card">
+        <span class="tag">Most popular</span>
+        <h3>Pro</h3>
+        <p class="price">US$99<small>/mo</small></p>
+        <p class="muted">or US$990/yr</p>
+        <ul class="checks"><li>Named tenders + source links</li><li>Fit score 0–100 + reasons</li><li>CSV download</li><li>CA · TX · NY coverage</li><li>1 user</li></ul>
+        <p>
+          <!-- STRIPE_PLACEHOLDER: replace after Boryan creates products -->
+          <a class="btn" href="https://buy.stripe.com/cNi14ocMOebO9f7aPq48008" id="pro-yearly" target="_blank" rel="noopener">Pro yearly · US$990</a>
+          <a class="btn ghost" href="https://buy.stripe.com/6oU14o5kmd7Kcrj4r248007" id="pro-monthly" target="_blank" rel="noopener">Pro monthly · US$99</a>
+        </p>
+        <p class="muted">Secure checkout via Stripe. Cancel anytime on monthly.</p>
+      </div>
+      <div class="card">
+        <h3>Team</h3>
+        <p class="price">US$2,900<small>/yr</small></p>
+        <ul class="checks"><li>Everything in Pro</li><li>Up to 5 users</li><li>Custom county/agency filters</li></ul>
+        <p><a class="btn ghost" href="https://buy.stripe.com/14A3cwaEG1p2fDvf5G48009" id="team-yearly" target="_blank" rel="noopener">Team yearly</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="digest">
+    <h2>Free weekly digest</h2>
+    <p>One email. No spam. Unsubscribe anytime.</p>
+    <form action="https://formsubmit.co/hello@solarbiddesk.com" method="POST">
+      <input type="hidden" name="_subject" value="SolarBidDesk free digest signup">
+      <input type="hidden" name="_captcha" value="false">
+      <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+      <label class="muted">Email <input type="email" name="email" required placeholder="you@epc.com"></label>
+      <button class="btn" type="submit">Subscribe</button>
+    </form>
+    <p class="muted">Or email <a href="mailto:hello@solarbiddesk.com?subject=Subscribe%20free%20digest">hello@solarbiddesk.com</a> once DNS is live.</p>
+  </section>
+
+  <section>
+    <h2>Boundary</h2>
+    <p class="muted">SolarBidDesk tracks <strong>published public tenders</strong>. Sister product <a href="https://powerdealdesk.com/au/">PowerDealDesk</a> screens Australian NEM battery projects for buyers — different demand, no overlap.</p>
+  </section>
+</main>
+<footer class="wrap muted">© 2026 SolarBidDesk · Powered by <a href="https://regenify.ai">Regenify</a></footer>
+</body>
+</html>
