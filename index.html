@@ -3,103 +3,274 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>SolarBidDesk – scored public solar, storage & EV-charger tenders</title>
-<meta name="description" content="Free weekly digest of US municipal, school and water-district solar, battery and EV-charger tenders. Paid feed: named bids, fit scores, source links.">
+<title>SolarBidDesk: scored public solar, storage and EV-charger tenders</title>
+<meta name="description" content="Free weekly digest of US public tenders for solar, storage and EV chargers. Pro adds agency names, fit scores and source links.">
+<link rel="canonical" href="https://solarbiddesk.com/">
 <link rel="stylesheet" href="style.css">
-<link rel="icon" href="avatar.png">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#1d4f91">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SolarBidDesk">
+<meta property="og:url" content="https://solarbiddesk.com/">
 <meta property="og:title" content="SolarBidDesk">
-<meta property="og:description" content="Scored public tenders for solar, storage and EV chargers. Free digest + paid feed.">
-<meta property="og:image" content="avatar.png">
+<meta property="og:description" content="Scored public tenders for solar, storage and EV chargers. Free weekly digest. Named bids and source links on Pro.">
+<meta property="og:image" content="https://solarbiddesk.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SolarBidDesk">
+<meta name="twitter:description" content="Scored public tenders for solar, storage and EV chargers. Free weekly digest. Named bids and source links on Pro.">
+<meta name="twitter:image" content="https://solarbiddesk.com/og-image.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Organization","name":"SolarBidDesk","description":"Scored public tenders for solar, storage and EV chargers.","parentOrganization":{"@type":"Organization","name":"Regenify"},"url":"https://solarbiddesk.com/"}
+{"@context":"https://schema.org","@type":"Organization","name":"SolarBidDesk","url":"https://solarbiddesk.com/","email":"hello@solarbiddesk.com","description":"Scored public tenders for solar, storage and EV chargers.","parentOrganization":{"@type":"Organization","name":"Regenify"}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"What is in the free digest?","acceptedAnswer":{"@type":"Answer","text":"One email a week with counts by state and tech, plus anonymised themes. Agency names and source links are not included."}},
+{"@type":"Question","name":"What does the score mean?","acceptedAnswer":{"@type":"Answer","text":"A 0-100 fit score for an installer or EPC desk, from the due date, the technology, the buyer type and how complete the public package looks. The letter is the band published with that score. It is a screen, not a bid recommendation."}},
+{"@type":"Question","name":"Why is the agency column locked?","acceptedAnswer":{"@type":"Answer","text":"The sample is anonymised. Pro shows the agency and the source link for each tender."}},
+{"@type":"Question","name":"Which places are covered?","acceptedAnswer":{"@type":"Answer","text":"The 24 October 2026 open set is New York public buyers. Pro is set up for California, Texas and New York."}},
+{"@type":"Question","name":"Can I cancel?","acceptedAnswer":{"@type":"Answer","text":"Yes. Monthly Pro cancels in the Stripe customer portal. Yearly Pro and Team are paid once a year."}},
+{"@type":"Question","name":"Do you submit the bids?","acceptedAnswer":{"@type":"Answer","text":"No. SolarBidDesk sends the shortlist. Your desk decides what to pursue and submits the bid."}}
+]}
 </script>
 </head>
 <body>
-<header>
-  <a class="logo" href="/"><img src="avatar.png" width="48" height="48" alt="SolarBidDesk"><span>SolarBidDesk</span></a>
-  <nav><a href="#pricing">Pricing</a> · <a href="#digest">Free digest</a></nav>
+<header class="site-hdr">
+  <div class="hdr-in">
+    <a class="wordmark" href="/">SolarBidDesk</a>
+    <nav class="mainnav" aria-label="Page">
+      <a href="#sample">Sample</a><span class="dot" aria-hidden="true">·</span>
+      <a href="#pricing">Pricing</a><span class="dot" aria-hidden="true">·</span>
+      <a href="#faq">FAQ</a>
+    </nav>
+    <a class="btn sm hdr-cta" href="#digest">Get free digest</a>
+  </div>
 </header>
 <main class="wrap">
-  <section class="hero">
-    <p class="muted">Launch wedge: California · Texas · New York · school / municipal / water</p>
-    <h1>Find the public tenders worth bidding — before the inbox fills up.</h1>
-    <p>We scrape published RFPs for solar, battery storage and EV chargers from municipalities, school districts, water utilities and counties. Score them for installer/EPC fit. Free weekly digest; full named feed for subscribers.</p>
-    <p><a class="btn" href="#digest">Get the free weekly digest</a> <a class="btn ghost" href="#pricing">See Pro</a></p>
+  <section class="hero" id="digest">
+    <p class="eyebrow">Public tenders for solar, storage and EV chargers</p>
+    <h1>Find the public tenders worth bidding before the inbox fills up.</h1>
+    <p class="lede">A scored shortlist of municipal, school, water, county, authority and university RFPs. Free weekly digest. Pro adds the agency name, score reasons and the source link.</p>
+    <form class="signup" action="https://formsubmit.co/hello@solarbiddesk.com" method="POST">
+      <input type="hidden" name="_subject" value="SolarBidDesk free digest signup">
+      <input type="hidden" name="_captcha" value="false">
+      <input class="hp" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="sr" for="email">Email</label>
+      <input id="email" type="email" name="email" required placeholder="you@epc.com" autocomplete="email">
+      <button class="btn" type="submit">Get free digest</button>
+    </form>
+    <p class="micro">Weekly email. Unsubscribe anytime.</p>
+    <p><a class="text" href="#pricing">See Pro pricing</a></p>
+    <p class="trust">Last updated <time datetime="2026-10-24">24 October 2026</time>. 11 open tenders tracked.</p>
   </section>
 
-  <section>
-    <h2>How it works</h2>
-    <div class="grid">
-      <div class="card"><h3>1. Scrape public boards</h3><p>State and local bid portals — not private deal chatter. Code pipelines, not browser babysitting.</p></div>
-      <div class="card"><h3>2. Score fit</h3><p>Due date, size band, tech match, buyer type, and how hard the bid package looks — transparent 0–100.</p></div>
-      <div class="card"><h3>3. Digest or full feed</h3><p>Free: anonymised themes. Paid: names, links, scores, CSV for your bid desk.</p></div>
+  <section id="sample">
+    <h2>This week's sample</h2>
+    <p class="muted">Six anonymised rows from the 24 October 2026 update. Agency names and source links are on Pro. A dash means that field was not in the feed. Size is not included yet.</p>
+    <div class="tbl">
+      <table>
+        <caption class="sr">Six anonymised open tenders. Agency names are hidden.</caption>
+        <thead>
+          <tr>
+            <th scope="col">State</th>
+            <th scope="col">Buyer type</th>
+            <th scope="col">Tech</th>
+            <th scope="col">Size band</th>
+            <th scope="col">Due in</th>
+            <th scope="col">Score</th>
+            <th scope="col">Agency</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>NY</td>
+            <td>County</td>
+            <td>EV charger</td>
+            <td class="unk">—</td>
+            <td>~13 days</td>
+            <td><span class="band a">A (82)</span></td>
+            <td><span class="lock"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2" stroke="currentColor" stroke-width="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Pro</span></td>
+          </tr>
+          <tr>
+            <td>NY</td>
+            <td>Authority</td>
+            <td>Solar PV</td>
+            <td class="unk">—</td>
+            <td>~16 days</td>
+            <td><span class="band b">B (78)</span></td>
+            <td><span class="lock"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2" stroke="currentColor" stroke-width="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Pro</span></td>
+          </tr>
+          <tr>
+            <td>NY</td>
+            <td>Authority</td>
+            <td>Solar PV</td>
+            <td class="unk">—</td>
+            <td>~24 days</td>
+            <td><span class="band b">B (78)</span></td>
+            <td><span class="lock"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2" stroke="currentColor" stroke-width="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Pro</span></td>
+          </tr>
+          <tr>
+            <td>NY</td>
+            <td>Municipal</td>
+            <td>Solar PV</td>
+            <td class="unk">—</td>
+            <td class="soon">Due soon (~2 days)</td>
+            <td><span class="band b">B (68)</span></td>
+            <td><span class="lock"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2" stroke="currentColor" stroke-width="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Pro</span></td>
+          </tr>
+          <tr>
+            <td>NY</td>
+            <td>Authority</td>
+            <td>Solar + storage</td>
+            <td class="unk">—</td>
+            <td class="unk">—</td>
+            <td><span class="band b">B (67)</span></td>
+            <td><span class="lock"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2" stroke="currentColor" stroke-width="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Pro</span></td>
+          </tr>
+          <tr>
+            <td>NY</td>
+            <td>University</td>
+            <td>Solar PV</td>
+            <td class="unk">—</td>
+            <td class="soon">Due soon (~4 days)</td>
+            <td><span class="band b">B (64)</span></td>
+            <td><span class="lock"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="5" y="11" width="14" height="10" rx="2" stroke="currentColor" stroke-width="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>Pro</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="unlock">
+      <p>Agency names and source links for these rows, and the rest of the open set, are on Pro.</p>
+      <a class="btn" id="sample-pro" href="https://buy.stripe.com/6oU14o5kmd7Kcrj4r248007">Unlock on Pro · US$99/mo</a>
     </div>
   </section>
 
-  <section>
-    <h2>Sample (anonymised)</h2>
-    <p class="muted">Illustrative rows until the first scrape lands. Subscribers see agency names and source URLs.</p>
-    <div class="card" style="overflow:auto">
-      <table>
-        <thead><tr><th>ID</th><th>State</th><th>Buyer type</th><th>Tech</th><th>Due</th><th>Score band</th></tr></thead>
-        <tbody>
-          <tr><td>TB-CA-001</td><td>CA</td><td>School district</td><td>Solar + storage</td><td>~21 days</td><td>A (80–100)</td></tr>
-          <tr><td>TB-TX-014</td><td>TX</td><td>Municipal</td><td>EV chargers</td><td>~35 days</td><td>B (65–79)</td></tr>
-          <tr><td>TB-NY-007</td><td>NY</td><td>Water utility</td><td>Solar PV</td><td>~14 days</td><td>A (80–100)</td></tr>
-        </tbody>
-      </table>
+  <section id="who">
+    <h2>Who it's for</h2>
+    <ul class="fit">
+      <li>Solar and storage EPCs deciding which public notices to price</li>
+      <li>EV-charger contractors tracking county, municipal and authority RFPs</li>
+      <li>Bid desks that need the open set in one email</li>
+    </ul>
+    <p class="note">Public packages in this set often require bonding and prevailing wage. Use the score to choose which notices deserve a full read of the bid documents.</p>
+  </section>
+
+  <section id="how">
+    <h2>How it works</h2>
+    <div class="steps">
+      <article>
+        <h3>Find</h3>
+        <p>Published RFPs from public buyers, in one list.</p>
+      </article>
+      <article>
+        <h3>Score</h3>
+        <p>A 0-100 fit score for installer and EPC desks.</p>
+      </article>
+      <article>
+        <h3>Send</h3>
+        <p>A free weekly email. Pro adds names, source links and a CSV.</p>
+      </article>
     </div>
   </section>
 
   <section id="pricing">
     <h2>Pricing</h2>
-    <div class="grid">
-      <div class="card">
+    <div class="plans">
+      <article class="plan">
         <h3>Free digest</h3>
         <p class="price">US$0</p>
-        <ul class="checks"><li>Weekly email</li><li>Counts by state and tech</li><li>Anonymised top themes</li></ul>
-        <p><a class="btn ghost" href="#digest">Subscribe free</a></p>
-      </div>
-      <div class="card">
+        <ul class="checks">
+          <li>Weekly email</li>
+          <li>Counts by state and tech</li>
+          <li>Anonymised top themes</li>
+        </ul>
+        <p class="actions"><a class="text" href="#digest">Get the free digest</a></p>
+      </article>
+      <article class="plan rec">
         <span class="tag">Most popular</span>
         <h3>Pro</h3>
         <p class="price">US$99<small>/mo</small></p>
-        <p class="muted">or US$990/yr</p>
-        <ul class="checks"><li>Named tenders + source links</li><li>Fit score 0–100 + reasons</li><li>CSV download</li><li>CA · TX · NY coverage</li><li>1 user</li></ul>
-        <p>
-          <!-- STRIPE_PLACEHOLDER: replace after Boryan creates products -->
-          <a class="btn" href="https://buy.stripe.com/cNi14ocMOebO9f7aPq48008" id="pro-yearly" target="_blank" rel="noopener">Pro yearly · US$990</a>
-          <a class="btn ghost" href="https://buy.stripe.com/6oU14o5kmd7Kcrj4r248007" id="pro-monthly" target="_blank" rel="noopener">Pro monthly · US$99</a>
-        </p>
-        <p class="muted">Secure checkout via Stripe. Cancel anytime on monthly.</p>
-      </div>
-      <div class="card">
+        <ul class="checks">
+          <li>Named tenders and source links</li>
+          <li>Fit score 0-100 with reasons</li>
+          <li>CSV download</li>
+          <li>California, Texas and New York coverage</li>
+          <li>1 user</li>
+        </ul>
+        <div class="actions">
+          <a class="btn" id="pro-monthly" href="https://buy.stripe.com/6oU14o5kmd7Kcrj4r248007">Pro monthly · US$99</a>
+          <a class="btn ghost" id="pro-yearly" href="https://buy.stripe.com/cNi14ocMOebO9f7aPq48008">Pro yearly · US$990</a>
+          <p class="micro">Secure checkout via Stripe. Cancel anytime on monthly.</p>
+        </div>
+      </article>
+      <article class="plan">
         <h3>Team</h3>
         <p class="price">US$2,900<small>/yr</small></p>
-        <ul class="checks"><li>Everything in Pro</li><li>Up to 5 users</li><li>Custom county/agency filters</li></ul>
-        <p><a class="btn ghost" href="https://buy.stripe.com/14A3cwaEG1p2fDvf5G48009" id="team-yearly" target="_blank" rel="noopener">Team yearly</a></p>
-      </div>
+        <ul class="checks">
+          <li>Everything in Pro</li>
+          <li>Up to 5 users</li>
+          <li>Custom county and agency filters</li>
+        </ul>
+        <div class="actions">
+          <a class="btn ghost" id="team-yearly" href="https://buy.stripe.com/14A3cwaEG1p2fDvf5G48009">Team yearly · US$2,900</a>
+        </div>
+      </article>
     </div>
   </section>
 
-  <section id="digest">
-    <h2>Free weekly digest</h2>
-    <p>One email. No spam. Unsubscribe anytime.</p>
-    <form action="https://formsubmit.co/hello@solarbiddesk.com" method="POST">
-      <input type="hidden" name="_subject" value="SolarBidDesk free digest signup">
-      <input type="hidden" name="_captcha" value="false">
-      <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
-      <label class="muted">Email <input type="email" name="email" required placeholder="you@epc.com"></label>
-      <button class="btn" type="submit">Subscribe</button>
-    </form>
-    <p class="muted">Or email <a href="mailto:hello@solarbiddesk.com?subject=Subscribe%20free%20digest">hello@solarbiddesk.com</a> once DNS is live.</p>
-  </section>
-
-  <section>
-    <h2>Boundary</h2>
-    <p class="muted">SolarBidDesk tracks <strong>published public tenders</strong>. Sister product <a href="https://powerdealdesk.com/au/">PowerDealDesk</a> screens Australian NEM battery projects for buyers — different demand, no overlap.</p>
+  <section id="faq">
+    <h2>FAQ</h2>
+    <details>
+      <summary>What is in the free digest?</summary>
+      <p>One email a week with counts by state and tech, plus anonymised themes. Agency names and source links are not included.</p>
+    </details>
+    <details>
+      <summary>What does the score mean?</summary>
+      <p>A 0-100 fit score for an installer or EPC desk, from the due date, the technology, the buyer type and how complete the public package looks. The letter is the band published with that score. It is a screen, not a bid recommendation.</p>
+    </details>
+    <details>
+      <summary>Why is the agency column locked?</summary>
+      <p>The sample is anonymised. Pro shows the agency and the source link for each tender.</p>
+    </details>
+    <details>
+      <summary>Which places are covered?</summary>
+      <p>The 24 October 2026 open set is New York public buyers. Pro is set up for California, Texas and New York.</p>
+    </details>
+    <details>
+      <summary>Can I cancel?</summary>
+      <p>Yes. Monthly Pro cancels in the Stripe customer portal. Yearly Pro and Team are paid once a year.</p>
+    </details>
+    <details>
+      <summary>Do you submit the bids?</summary>
+      <p>No. SolarBidDesk sends the shortlist. Your desk decides what to pursue and submits the bid.</p>
+    </details>
   </section>
 </main>
-<footer class="wrap muted">© 2026 SolarBidDesk · Powered by <a href="https://regenify.ai">Regenify</a></footer>
+<section class="closeband" id="close">
+  <div class="wrap">
+    <h2>Get the free weekly digest</h2>
+    <p class="lede">One email a week. Counts, themes, and what is due soon. Unsubscribe anytime.</p>
+    <form class="signup" action="https://formsubmit.co/hello@solarbiddesk.com" method="POST">
+      <input type="hidden" name="_subject" value="SolarBidDesk free digest signup">
+      <input type="hidden" name="_captcha" value="false">
+      <input class="hp" type="text" name="_honey" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <label class="sr" for="email-close">Email</label>
+      <input id="email-close" type="email" name="email" required placeholder="you@epc.com" autocomplete="email">
+      <button class="btn" type="submit">Get free digest</button>
+    </form>
+  </div>
+</section>
+<footer class="site-ftr">
+  <div class="wrap">
+    <p>SolarBidDesk tracks published US public tenders for solar, storage and EV chargers. Sister product <a href="https://powerdealdesk.com/au/">PowerDealDesk</a> screens Australian battery projects for buyers.</p>
+    <p class="ftr-links">
+      <span>© 2026 SolarBidDesk</span>
+      <a href="https://powerdealdesk.com/au/">PowerDealDesk</a>
+      <a href="https://regenify.ai">Regenify</a>
+      <a href="mailto:hello@solarbiddesk.com">hello@solarbiddesk.com</a>
+    </p>
+  </div>
+</footer>
 </body>
 </html>
