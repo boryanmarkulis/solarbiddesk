@@ -140,8 +140,45 @@ details p{margin:10px 0 0;color:var(--muted)}
   .steps,.plans{grid-template-columns:repeat(3,minmax(0,1fr))}
   main.wrap>section{padding:44px 0}
 }
-@media(max-width:720px){
-  .hdr-in{flex-wrap:wrap}
-  .mainnav{order:3;width:100%;margin-left:0}
-  .hdr-cta{margin-left:auto}
+@media(max-width:640px){
+  .hdr-cta{display:none}
+  .hdr-in{flex-wrap:wrap;align-items:center}
+}
+@media(max-width:480px){
+  .wrap{padding-left:28px;padding-right:28px}
+  .hdr-in{
+    gap:8px 12px;
+    padding:14px 28px 10px;
+  }
+  .mainnav{
+    order:3;
+    flex:1 0 100%;
+    width:100%;
+    margin:0;
+    justify-content:flex-start;
+    gap:2px;
+  }
+  .mainnav a{padding:10px 12px}
+  main.wrap>section{scroll-margin-top:116px}
+  main.wrap>.hero{padding-top:32px;padding-bottom:40px}
+  h1{font-size:34px;line-height:1.2;margin:14px 0 16px}
+  .lede{line-height:1.6}
+  .signup{
+    flex-direction:column;
+    align-items:stretch;
+    gap:12px;
+    margin:22px 0 12px;
+  }
+  .signup input[type=email]{
+    flex:none;
+    width:100%;
+    height:48px;
+    min-height:48px;
+    padding:0 14px;
+  }
+  .signup .btn{width:100%;height:48px;min-height:48px}
+  .unlock{flex-direction:column;align-items:stretch;gap:14px}
+  .unlock .btn{width:100%}
+  .closeband .wrap{padding-top:36px;padding-bottom:40px}
+  .tbl{-webkit-overflow-scrolling:touch}
 }
