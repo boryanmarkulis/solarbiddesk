@@ -1,0 +1,22 @@
+# SolarBidDesk
+> Free public directory of US published tenders (California, Texas, New York) for solar PV, battery storage and EV chargers, with installer/EPC fit scores and official source links. Free weekly digest; Pro adds reasons, CSV and daily delta. Contact: info@solarbiddesk.com
+
+## Key pages
+- [Tender directory](https://solarbiddesk.com/us/tenders/)
+- State hubs: [California](https://solarbiddesk.com/us/ca/), [Texas](https://solarbiddesk.com/us/tx/), [New York](https://solarbiddesk.com/us/ny/)
+- Tender pages: https://solarbiddesk.com/us/tenders/<slug>/
+- [Home, free digest and Pro](https://solarbiddesk.com/)
+
+## Data (public-notice fields + scores)
+- [tenders.csv](https://solarbiddesk.com/us/data/tenders.csv)
+- [tenders.json](https://solarbiddesk.com/us/data/tenders.json)
+- Sources: NYS Contract Reporter, Texas ESBD / SmartBuy, PlanetBids agency portals, Caltrans CCOP; SAM.gov when API keyed. Scores are screening aids, not bid advice.
+
+## Guides
+- [How to find public solar tenders in the US](https://solarbiddesk.com/guides/how-to-find-public-solar-tenders-us/)
+
+## Notes
+- Primary CTA is the free weekly digest; Pro is optional.
+- Directory listings are free and cite the issuing agency notice.
+- Sister product: PowerDealDesk (Australian NEM battery project directory).
+- Last updated 2026-10-26.
