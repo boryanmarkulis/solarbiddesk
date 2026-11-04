@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-04",
-  "count": 9,
+  "generated": "2026-11-05",
+  "count": 8,
   "tenders": [
     {
       "slug": "ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568",
@@ -23,9 +23,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139568",
       "solicitation_id": "2139568",
       "url": "https://solarbiddesk.com/us/tenders/ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568/",
-      "link_verified_at": "2026-11-04T10:01:01+00:00",
-      "verified_fields_at": "2026-11-04T10:01:01+00:00",
-      "last_updated": "2026-11-04"
+      "link_verified_at": "2026-11-04T19:23:26+00:00",
+      "verified_fields_at": "2026-11-04T19:23:26+00:00",
+      "last_updated": "2026-11-05"
     },
     {
       "slug": "ny-power-vista-solar-2138489",
@@ -48,9 +48,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2138489",
       "solicitation_id": "2138489",
       "url": "https://solarbiddesk.com/us/tenders/ny-power-vista-solar-2138489/",
-      "link_verified_at": "2026-11-04T10:00:56+00:00",
-      "verified_fields_at": "2026-11-04T10:00:56+00:00",
-      "last_updated": "2026-11-04"
+      "link_verified_at": "2026-11-04T19:23:22+00:00",
+      "verified_fields_at": "2026-11-04T19:23:22+00:00",
+      "last_updated": "2026-11-05"
     },
     {
       "slug": "ny-electric-vehicle-charging-infrastructure-study-2139260",
@@ -73,9 +73,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139260",
       "solicitation_id": "2139260",
       "url": "https://solarbiddesk.com/us/tenders/ny-electric-vehicle-charging-infrastructure-study-2139260/",
-      "link_verified_at": "2026-11-04T10:00:58+00:00",
-      "verified_fields_at": "2026-11-04T10:00:58+00:00",
-      "last_updated": "2026-11-04"
+      "link_verified_at": "2026-11-04T19:23:24+00:00",
+      "verified_fields_at": "2026-11-04T19:23:24+00:00",
+      "last_updated": "2026-11-05"
     },
     {
       "slug": "ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696",
@@ -99,34 +99,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2066696",
       "solicitation_id": "2066696",
       "url": "https://solarbiddesk.com/us/tenders/ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696/",
-      "link_verified_at": "2026-11-04T10:00:39+00:00",
-      "verified_fields_at": "2026-11-04T10:00:39+00:00",
-      "last_updated": "2026-11-04"
-    },
-    {
-      "slug": "ny-091075-02-solar-field-campus-utilities-extension-2139667",
-      "title": "091075.02 Solar Field - Campus Utilities Extension",
-      "buyer": "State University of New York (SUNY)",
-      "buyer_type": "university",
-      "state": "NY",
-      "tech_tags": [
-        "solar"
-      ],
-      "due_date": "2026-11-04",
-      "due_time": "2:00 PM",
-      "due_note": null,
-      "due_at": "2026-11-04T14:00:00-05:00",
-      "due": "Nov 4, 2026, 2:00 PM ET",
-      "posted_at": "2026-10-06",
-      "status": "Open",
-      "score": 64,
-      "source": "nyscr",
-      "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139667",
-      "solicitation_id": "2139667",
-      "url": "https://solarbiddesk.com/us/tenders/ny-091075-02-solar-field-campus-utilities-extension-2139667/",
-      "link_verified_at": "2026-11-04T10:01:07+00:00",
-      "verified_fields_at": "2026-11-04T10:01:07+00:00",
-      "last_updated": "2026-11-04"
+      "link_verified_at": "2026-11-04T19:23:11+00:00",
+      "verified_fields_at": "2026-11-04T19:23:11+00:00",
+      "last_updated": "2026-11-05"
     },
     {
       "slug": "ny-land-lease-development-opportunities-for-energy-storage-2136537",
@@ -149,9 +124,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2136537",
       "solicitation_id": "2136537",
       "url": "https://solarbiddesk.com/us/tenders/ny-land-lease-development-opportunities-for-energy-storage-2136537/",
-      "link_verified_at": "2026-11-04T10:00:53+00:00",
-      "verified_fields_at": "2026-11-04T10:00:53+00:00",
-      "last_updated": "2026-11-04"
+      "link_verified_at": "2026-11-04T19:23:20+00:00",
+      "verified_fields_at": "2026-11-04T19:23:20+00:00",
+      "last_updated": "2026-11-05"
     },
     {
       "slug": "ny-residential-and-retail-energy-storage-market-acceleration-in-2121651",
@@ -174,9 +149,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2121651",
       "solicitation_id": "2121651",
       "url": "https://solarbiddesk.com/us/tenders/ny-residential-and-retail-energy-storage-market-acceleration-in-2121651/",
-      "link_verified_at": "2026-11-04T10:00:42+00:00",
-      "verified_fields_at": "2026-11-04T10:00:42+00:00",
-      "last_updated": "2026-11-04"
+      "link_verified_at": "2026-11-04T19:23:13+00:00",
+      "verified_fields_at": "2026-11-04T19:23:13+00:00",
+      "last_updated": "2026-11-05"
     },
     {
       "slug": "ny-new-york-state-department-of-labor-nysdol-office-of-just-ene-2133855",
@@ -199,9 +174,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2133855",
       "solicitation_id": "2133855",
       "url": "https://solarbiddesk.com/us/tenders/ny-new-york-state-department-of-labor-nysdol-office-of-just-ene-2133855/",
-      "link_verified_at": "2026-11-04T10:00:50+00:00",
-      "verified_fields_at": "2026-11-04T10:00:50+00:00",
-      "last_updated": "2026-11-04"
+      "link_verified_at": "2026-11-04T19:23:18+00:00",
+      "verified_fields_at": "2026-11-04T19:23:18+00:00",
+      "last_updated": "2026-11-05"
     },
     {
       "slug": "ny-on-the-job-training-ojt-for-energy-efficiency-and-clean-tech-2128766",
@@ -224,9 +199,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2128766",
       "solicitation_id": "2128766",
       "url": "https://solarbiddesk.com/us/tenders/ny-on-the-job-training-ojt-for-energy-efficiency-and-clean-tech-2128766/",
-      "link_verified_at": "2026-11-04T10:00:45+00:00",
-      "verified_fields_at": "2026-11-04T10:00:45+00:00",
-      "last_updated": "2026-11-04"
+      "link_verified_at": "2026-11-04T19:23:15+00:00",
+      "verified_fields_at": "2026-11-04T19:23:15+00:00",
+      "last_updated": "2026-11-05"
     }
   ]
 }
