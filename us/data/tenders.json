@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-04",
-  "count": 8,
+  "count": 10,
   "tenders": [
     {
       "slug": "ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568",
@@ -12,7 +12,6 @@
         "solar"
       ],
       "due_at": "2026-11-17",
-      "due_time": null,
       "posted_at": "2026-10-02",
       "status": "Open",
       "score": 78,
@@ -20,8 +19,7 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139568",
       "solicitation_id": "2139568",
       "url": "https://solarbiddesk.com/us/tenders/ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568/",
-      "link_verified_at": "2026-11-04T09:33:05+00:00",
-      "verified_fields_at": "2026-11-04T09:33:05+00:00",
+      "link_verified_at": "2026-11-04T09:13:47+00:00",
       "last_updated": "2026-11-04"
     },
     {
@@ -34,7 +32,6 @@
         "solar"
       ],
       "due_at": "2026-11-09",
-      "due_time": null,
       "posted_at": "2026-08-26",
       "status": "Open",
       "score": 72,
@@ -42,8 +39,7 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2138489",
       "solicitation_id": "2138489",
       "url": "https://solarbiddesk.com/us/tenders/ny-power-vista-solar-2138489/",
-      "link_verified_at": "2026-11-04T09:33:00+00:00",
-      "verified_fields_at": "2026-11-04T09:33:00+00:00",
+      "link_verified_at": "2026-11-04T09:13:50+00:00",
       "last_updated": "2026-11-04"
     },
     {
@@ -56,7 +52,6 @@
         "EV_charger"
       ],
       "due_at": "2026-11-06",
-      "due_time": null,
       "posted_at": "2026-09-22",
       "status": "Open",
       "score": 68,
@@ -64,8 +59,7 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139260",
       "solicitation_id": "2139260",
       "url": "https://solarbiddesk.com/us/tenders/ny-electric-vehicle-charging-infrastructure-study-2139260/",
-      "link_verified_at": "2026-11-04T09:33:02+00:00",
-      "verified_fields_at": "2026-11-04T09:33:02+00:00",
+      "link_verified_at": "2026-11-04T09:14:02+00:00",
       "last_updated": "2026-11-04"
     },
     {
@@ -79,7 +73,6 @@
         "BESS"
       ],
       "due_at": "2029-12-31",
-      "due_time": null,
       "posted_at": "2020-06-24",
       "status": "Open",
       "score": 67,
@@ -87,8 +80,47 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2066696",
       "solicitation_id": "2066696",
       "url": "https://solarbiddesk.com/us/tenders/ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696/",
-      "link_verified_at": "2026-11-04T09:32:44+00:00",
-      "verified_fields_at": "2026-11-04T09:32:44+00:00",
+      "link_verified_at": "2026-11-04T09:13:52+00:00",
+      "last_updated": "2026-11-04"
+    },
+    {
+      "slug": "ny-091075-02-solar-field-campus-utilities-extension-2139667",
+      "title": "091075.02 Solar Field – Campus Utilities Extension",
+      "buyer": "State University of New York (SUNY)",
+      "buyer_type": "university",
+      "state": "NY",
+      "tech_tags": [
+        "solar"
+      ],
+      "due_at": "2026-11-04",
+      "posted_at": "2026-10-06",
+      "status": "Open",
+      "score": 64,
+      "source": "nyscr",
+      "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139667",
+      "solicitation_id": "2139667",
+      "url": "https://solarbiddesk.com/us/tenders/ny-091075-02-solar-field-campus-utilities-extension-2139667/",
+      "link_verified_at": "2026-11-04T09:13:42+00:00",
+      "last_updated": "2026-11-04"
+    },
+    {
+      "slug": "ny-request-for-qualifications-for-pre-commercial-energy-storage-2133478",
+      "title": "Request for Qualifications For Pre-Commercial Energy Storage Pipeline",
+      "buyer": "Power Authority of New York",
+      "buyer_type": "other",
+      "state": "NY",
+      "tech_tags": [
+        "BESS"
+      ],
+      "due_at": null,
+      "posted_at": "2026-03-31",
+      "status": "Open",
+      "score": 59,
+      "source": "nyscr",
+      "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2133478",
+      "solicitation_id": "2133478",
+      "url": "https://solarbiddesk.com/us/tenders/ny-request-for-qualifications-for-pre-commercial-energy-storage-2133478/",
+      "link_verified_at": "2026-11-04T09:13:57+00:00",
       "last_updated": "2026-11-04"
     },
     {
@@ -101,7 +133,6 @@
         "BESS"
       ],
       "due_at": "2028-06-24",
-      "due_time": null,
       "posted_at": "2026-06-24",
       "status": "Open",
       "score": 56,
@@ -109,8 +140,7 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2136537",
       "solicitation_id": "2136537",
       "url": "https://solarbiddesk.com/us/tenders/ny-land-lease-development-opportunities-for-energy-storage-2136537/",
-      "link_verified_at": "2026-11-04T09:32:57+00:00",
-      "verified_fields_at": "2026-11-04T09:32:57+00:00",
+      "link_verified_at": "2026-11-04T09:13:55+00:00",
       "last_updated": "2026-11-04"
     },
     {
@@ -123,7 +153,6 @@
         "BESS"
       ],
       "due_at": "2030-12-31",
-      "due_time": null,
       "posted_at": "2025-04-23",
       "status": "Open",
       "score": 56,
@@ -131,13 +160,12 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2121651",
       "solicitation_id": "2121651",
       "url": "https://solarbiddesk.com/us/tenders/ny-residential-and-retail-energy-storage-market-acceleration-in-2121651/",
-      "link_verified_at": "2026-11-04T09:32:47+00:00",
-      "verified_fields_at": "2026-11-04T09:32:47+00:00",
+      "link_verified_at": "2026-11-04T09:14:00+00:00",
       "last_updated": "2026-11-04"
     },
     {
       "slug": "ny-new-york-state-department-of-labor-nysdol-office-of-just-ene-2133855",
-      "title": "New York State Department of Labor (NYSDOL) Office of Just Energy Transition (OJET) Growing the Clean Energy Workforce - Electric Vehicles (GCEW-EV) Request for Applications (RFA)",
+      "title": "New York State Department of Labor (NYSDOL) Office of Just Energy Transition (OJET) Growing the Clean Energy Workforce – Electric Vehicles (GCEW-EV) Request for Applications (RFA)",
       "buyer": "Labor, NYS Dept. of",
       "buyer_type": "other",
       "state": "NY",
@@ -145,7 +173,6 @@
         "energy_adjacent"
       ],
       "due_at": "2026-12-03",
-      "due_time": null,
       "posted_at": "2026-04-10",
       "status": "Open",
       "score": 49,
@@ -153,8 +180,7 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2133855",
       "solicitation_id": "2133855",
       "url": "https://solarbiddesk.com/us/tenders/ny-new-york-state-department-of-labor-nysdol-office-of-just-ene-2133855/",
-      "link_verified_at": "2026-11-04T09:32:55+00:00",
-      "verified_fields_at": "2026-11-04T09:32:55+00:00",
+      "link_verified_at": "2026-11-04T09:14:15+00:00",
       "last_updated": "2026-11-04"
     },
     {
@@ -167,7 +193,6 @@
         "energy_adjacent"
       ],
       "due_at": "2030-12-02",
-      "due_time": null,
       "posted_at": "2025-11-14",
       "status": "Open",
       "score": 42,
@@ -175,8 +200,7 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2128766",
       "solicitation_id": "2128766",
       "url": "https://solarbiddesk.com/us/tenders/ny-on-the-job-training-ojt-for-energy-efficiency-and-clean-tech-2128766/",
-      "link_verified_at": "2026-11-04T09:32:50+00:00",
-      "verified_fields_at": "2026-11-04T09:32:50+00:00",
+      "link_verified_at": "2026-11-04T09:14:13+00:00",
       "last_updated": "2026-11-04"
     }
   ]
