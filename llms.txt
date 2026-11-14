@@ -7,6 +7,7 @@
 - RFP hubs: [Solar RFPs](https://solarbiddesk.com/us/solar-rfps/), [EV charging RFPs](https://solarbiddesk.com/us/ev-charging-rfps/), [Battery storage RFPs](https://solarbiddesk.com/us/battery-storage-rfps/), [California solar RFPs](https://solarbiddesk.com/us/ca/solar-rfps/), [Texas ESBD solar, EV and storage](https://solarbiddesk.com/us/tx/esbd-solar-ev-storage/)
 - New York: [New York energy storage RFPs (NYSERDA, NYPA, municipal BESS)](https://solarbiddesk.com/us/ny/energy-storage-rfps/)
 - New York: [New York solar RFPs (NYSCR, municipal and authority bids)](https://solarbiddesk.com/us/ny/solar-rfps/)
+- Guide: [California school district solar RFPs, PPAs and Gov Code 4217](https://solarbiddesk.com/guides/california-school-solar-rfp/)
 - Guide: [Solar PPA RFPs: how public agencies buy solar](https://solarbiddesk.com/guides/solar-ppa-rfp/)
 - Tender pages: https://solarbiddesk.com/us/tenders/<slug>/
 - [Home, free digest and Pro](https://solarbiddesk.com/)
@@ -23,4 +24,4 @@
 - Primary CTA is the free weekly digest; Pro is optional.
 - Directory listings are free and cite the issuing agency notice.
 - Sister product: PowerDealDesk (Australian NEM battery project directory).
-- Last updated 2026-11-13.
+- Last updated 2026-11-14.
