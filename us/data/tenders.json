@@ -1,57 +1,7 @@
 {
-  "generated": "2026-11-15",
-  "count": 8,
+  "generated": "2026-11-16",
+  "count": 4,
   "tenders": [
-    {
-      "slug": "",
-      "title": "SolarWinds DameWare Remote Subscription Renewal",
-      "buyer": "State University of New York (SUNY)",
-      "buyer_type": "university",
-      "state": "NY",
-      "tech_tags": [
-        "solar"
-      ],
-      "due_date": "2026-12-04",
-      "due_time": null,
-      "due_note": null,
-      "due_at": null,
-      "due": "Dec 4, 2026, time not published",
-      "posted_at": "2026-11-12",
-      "status": "Open",
-      "score": 78,
-      "source": "nyscr",
-      "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2140778",
-      "solicitation_id": "2140778",
-      "url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2140778",
-      "link_verified_at": "2026-11-14T02:56:28+00:00",
-      "verified_fields_at": "2026-11-14T02:56:28+00:00",
-      "last_updated": "2026-11-15"
-    },
-    {
-      "slug": "",
-      "title": "Applied Information School Clocks with Solar D/C Back Panel",
-      "buyer": "Texas Department of Transportation",
-      "buyer_type": "authority",
-      "state": "TX",
-      "tech_tags": [
-        "solar"
-      ],
-      "due_date": "2026-11-20",
-      "due_time": "3:00 PM",
-      "due_note": null,
-      "due_at": "2026-11-20T15:00:00-06:00",
-      "due": "Nov 20, 2026, 3:00 PM CT",
-      "posted_at": "2026-11-06",
-      "status": "Addendum Posted",
-      "score": 72,
-      "source": "esbd",
-      "source_url": "https://www.txsmartbuy.gov/esbd/601310000103328",
-      "solicitation_id": "601310000103328",
-      "url": "https://www.txsmartbuy.gov/esbd/601310000103328",
-      "link_verified_at": "2026-11-14T02:55:54+00:00",
-      "verified_fields_at": "2026-11-14T02:55:54+00:00",
-      "last_updated": "2026-11-15"
-    },
     {
       "slug": "ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696",
       "title": "Affordable Solar and Storage Predevelopment and Technical Assistance",
@@ -74,9 +24,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2066696",
       "solicitation_id": "2066696",
       "url": "https://solarbiddesk.com/us/tenders/ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696/",
-      "link_verified_at": "2026-11-14T02:56:04+00:00",
-      "verified_fields_at": "2026-11-14T02:56:04+00:00",
-      "last_updated": "2026-11-15"
+      "link_verified_at": "2026-11-15T22:22:46+00:00",
+      "verified_fields_at": "2026-11-15T22:22:46+00:00",
+      "last_updated": "2026-11-16"
     },
     {
       "slug": "ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568",
@@ -99,34 +49,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139568",
       "solicitation_id": "2139568",
       "url": "https://solarbiddesk.com/us/tenders/ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568/",
-      "link_verified_at": "2026-11-14T02:56:22+00:00",
-      "verified_fields_at": "2026-11-14T02:56:22+00:00",
-      "last_updated": "2026-11-15"
-    },
-    {
-      "slug": "ny-new-york-state-department-of-labor-nysdol-office-of-just-ene-2133855",
-      "title": "New York State Department of Labor (NYSDOL) Office of Just Energy Transition (OJET) Growing the Clean Energy Workforce - Electric Vehicles (GCEW-EV) Request for Applications (RFA)",
-      "buyer": "Labor, NYS Dept. of",
-      "buyer_type": "other",
-      "state": "NY",
-      "tech_tags": [
-        "energy_adjacent"
-      ],
-      "due_date": "2026-12-03",
-      "due_time": null,
-      "due_note": null,
-      "due_at": null,
-      "due": "Dec 3, 2026, time not published",
-      "posted_at": "2026-04-10",
-      "status": "Open",
-      "score": 57,
-      "source": "nyscr",
-      "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2133855",
-      "solicitation_id": "2133855",
-      "url": "https://solarbiddesk.com/us/tenders/ny-new-york-state-department-of-labor-nysdol-office-of-just-ene-2133855/",
-      "link_verified_at": "2026-11-14T02:56:12+00:00",
-      "verified_fields_at": "2026-11-14T02:56:12+00:00",
-      "last_updated": "2026-11-15"
+      "link_verified_at": "2026-11-15T22:23:08+00:00",
+      "verified_fields_at": "2026-11-15T22:23:08+00:00",
+      "last_updated": "2026-11-16"
     },
     {
       "slug": "ny-land-lease-development-opportunities-for-energy-storage-2136537",
@@ -149,9 +74,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2136537",
       "solicitation_id": "2136537",
       "url": "https://solarbiddesk.com/us/tenders/ny-land-lease-development-opportunities-for-energy-storage-2136537/",
-      "link_verified_at": "2026-11-14T02:56:14+00:00",
-      "verified_fields_at": "2026-11-14T02:56:14+00:00",
-      "last_updated": "2026-11-15"
+      "link_verified_at": "2026-11-15T22:22:58+00:00",
+      "verified_fields_at": "2026-11-15T22:22:58+00:00",
+      "last_updated": "2026-11-16"
     },
     {
       "slug": "ny-residential-and-retail-energy-storage-market-acceleration-in-2121651",
@@ -174,34 +99,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2121651",
       "solicitation_id": "2121651",
       "url": "https://solarbiddesk.com/us/tenders/ny-residential-and-retail-energy-storage-market-acceleration-in-2121651/",
-      "link_verified_at": "2026-11-14T02:56:06+00:00",
-      "verified_fields_at": "2026-11-14T02:56:06+00:00",
-      "last_updated": "2026-11-15"
-    },
-    {
-      "slug": "ny-on-the-job-training-ojt-for-energy-efficiency-and-clean-tech-2128766",
-      "title": "On-the-Job Training (OJT) for Energy Efficiency and Clean Technology",
-      "buyer": "NYSERDA",
-      "buyer_type": "other",
-      "state": "NY",
-      "tech_tags": [
-        "energy_adjacent"
-      ],
-      "due_date": "2030-12-02",
-      "due_time": null,
-      "due_note": null,
-      "due_at": null,
-      "due": "Dec 2, 2030, time not published",
-      "posted_at": "2025-11-14",
-      "status": "Open",
-      "score": 42,
-      "source": "nyscr",
-      "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2128766",
-      "solicitation_id": "2128766",
-      "url": "https://solarbiddesk.com/us/tenders/ny-on-the-job-training-ojt-for-energy-efficiency-and-clean-tech-2128766/",
-      "link_verified_at": "2026-11-14T02:56:08+00:00",
-      "verified_fields_at": "2026-11-14T02:56:08+00:00",
-      "last_updated": "2026-11-15"
+      "link_verified_at": "2026-11-15T22:22:48+00:00",
+      "verified_fields_at": "2026-11-15T22:22:48+00:00",
+      "last_updated": "2026-11-16"
     }
   ]
 }
