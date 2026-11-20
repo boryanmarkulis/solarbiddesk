@@ -1,6 +1,6 @@
 # Solar RFP outline (public agencies)
 
-Source: SolarBidDesk, https://solarbiddesk.com/guides/solar-rfp-template/ . Updated 2026-11-19. Checklist of what public solar RFPs usually contain. Not legal advice. Always follow the specific solicitation.
+Source: SolarBidDesk, https://solarbiddesk.com/guides/solar-rfp-template/ . Updated 2026-11-20. Checklist of what public solar RFPs usually contain. Not legal advice. Always follow the specific solicitation.
 
 ## 1. Scope and site data
 
