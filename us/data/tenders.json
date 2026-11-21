@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20",
-  "count": 4,
+  "generated": "2026-11-21",
+  "count": 5,
   "tenders": [
     {
       "slug": "ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568",
@@ -23,9 +23,34 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139568",
       "solicitation_id": "2139568",
       "url": "https://solarbiddesk.com/us/tenders/ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568/",
-      "link_verified_at": "2026-11-19T22:30:05+00:00",
-      "verified_fields_at": "2026-11-19T22:30:05+00:00",
-      "last_updated": "2026-11-20"
+      "link_verified_at": "2026-11-21T02:58:54+00:00",
+      "verified_fields_at": "2026-11-21T02:58:54+00:00",
+      "last_updated": "2026-11-21"
+    },
+    {
+      "slug": "",
+      "title": "Design Services for Rehabilitation of Electrical Distribution Room and Solar Photovoltaic Installation at Coney Island Yard (State)",
+      "buyer": "MTA - NYC Transit (NYCT)",
+      "buyer_type": "other",
+      "state": "NY",
+      "tech_tags": [
+        "solar"
+      ],
+      "due_date": "2026-12-28",
+      "due_time": null,
+      "due_note": null,
+      "due_at": null,
+      "due": "Dec 28, 2026, time not published",
+      "posted_at": "2026-11-20",
+      "status": "Open",
+      "score": 70,
+      "source": "nyscr",
+      "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2141067",
+      "solicitation_id": "2141067",
+      "url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2141067",
+      "link_verified_at": "2026-11-21T02:59:06+00:00",
+      "verified_fields_at": "2026-11-21T02:59:06+00:00",
+      "last_updated": "2026-11-21"
     },
     {
       "slug": "ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696",
@@ -49,9 +74,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2066696",
       "solicitation_id": "2066696",
       "url": "https://solarbiddesk.com/us/tenders/ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696/",
-      "link_verified_at": "2026-11-19T22:29:43+00:00",
-      "verified_fields_at": "2026-11-19T22:29:43+00:00",
-      "last_updated": "2026-11-20"
+      "link_verified_at": "2026-11-21T02:58:31+00:00",
+      "verified_fields_at": "2026-11-21T02:58:31+00:00",
+      "last_updated": "2026-11-21"
     },
     {
       "slug": "ny-land-lease-development-opportunities-for-energy-storage-2136537",
@@ -74,9 +99,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2136537",
       "solicitation_id": "2136537",
       "url": "https://solarbiddesk.com/us/tenders/ny-land-lease-development-opportunities-for-energy-storage-2136537/",
-      "link_verified_at": "2026-11-19T22:29:55+00:00",
-      "verified_fields_at": "2026-11-19T22:29:55+00:00",
-      "last_updated": "2026-11-20"
+      "link_verified_at": "2026-11-21T02:58:44+00:00",
+      "verified_fields_at": "2026-11-21T02:58:44+00:00",
+      "last_updated": "2026-11-21"
     },
     {
       "slug": "ny-residential-and-retail-energy-storage-market-acceleration-in-2121651",
@@ -99,9 +124,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2121651",
       "solicitation_id": "2121651",
       "url": "https://solarbiddesk.com/us/tenders/ny-residential-and-retail-energy-storage-market-acceleration-in-2121651/",
-      "link_verified_at": "2026-11-19T22:29:45+00:00",
-      "verified_fields_at": "2026-11-19T22:29:45+00:00",
-      "last_updated": "2026-11-20"
+      "link_verified_at": "2026-11-21T02:58:34+00:00",
+      "verified_fields_at": "2026-11-21T02:58:34+00:00",
+      "last_updated": "2026-11-21"
     }
   ]
 }
