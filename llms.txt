@@ -12,6 +12,7 @@
 - Guide: [EV charging RFPs explained: scope, NEVI/CFI funding and where to find them](https://solarbiddesk.com/guides/ev-charging-rfp-guide/)
 - Hub: [Solar + storage and microgrid RFPs: open public bids and how to bid](https://solarbiddesk.com/us/solar-storage-microgrid-rfps/)
 - Hub: [Water and wastewater district solar RFPs: open bids and how to bid](https://solarbiddesk.com/us/water-district-solar-rfps/)
+- Hub: [NYSERDA & NYPA RFPs: open solar and storage solicitations](https://solarbiddesk.com/us/ny/nyserda-nypa-rfps/)
 - Hub: [Solar carport and parking canopy RFPs for public agencies: open bids and how to bid](https://solarbiddesk.com/us/solar-carport-rfps/)
 - Guide: [Battery energy storage procurement and supplier prequalification for public agencies](https://solarbiddesk.com/guides/battery-storage-procurement-prequalification/)
 - Guide: [Solar RFP template: what public agencies ask for](https://solarbiddesk.com/guides/solar-rfp-template/) (outline download: https://solarbiddesk.com/guides/solar-rfp-template/solar-rfp-outline.md)
@@ -32,4 +33,4 @@
 - Primary CTA is the free weekly digest; Pro is optional.
 - Directory listings are free and cite the issuing agency notice.
 - Sister product: PowerDealDesk (Australian NEM battery project directory).
-- Last updated 2026-11-22.
+- Last updated 2026-11-23.
