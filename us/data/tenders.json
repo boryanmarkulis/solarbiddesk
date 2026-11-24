@@ -1,7 +1,57 @@
 {
-  "generated": "2026-11-23",
-  "count": 5,
+  "generated": "2026-11-24",
+  "count": 7,
   "tenders": [
+    {
+      "slug": "",
+      "title": "HD-S3203 HARBOR FLEET ZERO EMISSIONS INFRASTRUCTURE",
+      "buyer": "Port of Long Beach",
+      "buyer_type": "other",
+      "state": "CA",
+      "tech_tags": [
+        "EV_charger"
+      ],
+      "due_date": "2026-12-08",
+      "due_time": "2:00 PM",
+      "due_note": null,
+      "due_at": "2026-12-08T14:00:00-08:00",
+      "due": "Dec 8, 2026, 2:00 PM PT",
+      "posted_at": "2026-10-08",
+      "status": "Bidding",
+      "score": 78,
+      "source": "planetbids",
+      "source_url": "https://vendors.planetbids.com/portal/19236/bo/bo-detail/146674",
+      "solicitation_id": "146674",
+      "url": "https://vendors.planetbids.com/portal/19236/bo/bo-detail/146674",
+      "link_verified_at": "2026-11-24T03:10:04+00:00",
+      "verified_fields_at": "2026-11-24T03:10:04+00:00",
+      "last_updated": "2026-11-24"
+    },
+    {
+      "slug": "",
+      "title": "Solar Panel Replacement - RE-BID",
+      "buyer": "Chaffey College",
+      "buyer_type": "university",
+      "state": "CA",
+      "tech_tags": [
+        "solar"
+      ],
+      "due_date": "2026-12-16",
+      "due_time": "2:00 PM",
+      "due_note": null,
+      "due_at": "2026-12-16T14:00:00-08:00",
+      "due": "Dec 16, 2026, 2:00 PM PT",
+      "posted_at": "2026-11-18",
+      "status": "Bidding",
+      "score": 78,
+      "source": "planetbids",
+      "source_url": "https://vendors.planetbids.com/portal/43704/bo/bo-detail/148324",
+      "solicitation_id": "148324",
+      "url": "https://vendors.planetbids.com/portal/43704/bo/bo-detail/148324",
+      "link_verified_at": "2026-11-24T03:10:05+00:00",
+      "verified_fields_at": "2026-11-24T03:10:05+00:00",
+      "last_updated": "2026-11-24"
+    },
     {
       "slug": "ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568",
       "title": "Albany GSD Landfill Solar PV Project EPC Services",
@@ -18,14 +68,14 @@
       "due": "Dec 3, 2026, time not published",
       "posted_at": "2026-10-02",
       "status": "Open",
-      "score": 78,
+      "score": 72,
       "source": "nyscr",
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2139568",
       "solicitation_id": "2139568",
       "url": "https://solarbiddesk.com/us/tenders/ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568/",
-      "link_verified_at": "2026-11-22T22:24:43+00:00",
-      "verified_fields_at": "2026-11-22T22:24:43+00:00",
-      "last_updated": "2026-11-23"
+      "link_verified_at": "2026-11-24T03:09:55+00:00",
+      "verified_fields_at": "2026-11-24T03:09:55+00:00",
+      "last_updated": "2026-11-24"
     },
     {
       "slug": "",
@@ -48,9 +98,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2141067",
       "solicitation_id": "2141067",
       "url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2141067",
-      "link_verified_at": "2026-11-22T22:24:55+00:00",
-      "verified_fields_at": "2026-11-22T22:24:55+00:00",
-      "last_updated": "2026-11-23"
+      "link_verified_at": "2026-11-24T03:10:03+00:00",
+      "verified_fields_at": "2026-11-24T03:10:03+00:00",
+      "last_updated": "2026-11-24"
     },
     {
       "slug": "ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696",
@@ -74,9 +124,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2066696",
       "solicitation_id": "2066696",
       "url": "https://solarbiddesk.com/us/tenders/ny-affordable-solar-and-storage-predevelopment-and-technical-as-2066696/",
-      "link_verified_at": "2026-11-22T22:24:22+00:00",
-      "verified_fields_at": "2026-11-22T22:24:22+00:00",
-      "last_updated": "2026-11-23"
+      "link_verified_at": "2026-11-24T03:09:39+00:00",
+      "verified_fields_at": "2026-11-24T03:09:39+00:00",
+      "last_updated": "2026-11-24"
     },
     {
       "slug": "ny-land-lease-development-opportunities-for-energy-storage-2136537",
@@ -99,9 +149,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2136537",
       "solicitation_id": "2136537",
       "url": "https://solarbiddesk.com/us/tenders/ny-land-lease-development-opportunities-for-energy-storage-2136537/",
-      "link_verified_at": "2026-11-22T22:24:34+00:00",
-      "verified_fields_at": "2026-11-22T22:24:34+00:00",
-      "last_updated": "2026-11-23"
+      "link_verified_at": "2026-11-24T03:09:48+00:00",
+      "verified_fields_at": "2026-11-24T03:09:48+00:00",
+      "last_updated": "2026-11-24"
     },
     {
       "slug": "ny-residential-and-retail-energy-storage-market-acceleration-in-2121651",
@@ -124,9 +174,9 @@
       "source_url": "https://www.nyscr.ny.gov/Ads/Search?Keyword=2121651",
       "solicitation_id": "2121651",
       "url": "https://solarbiddesk.com/us/tenders/ny-residential-and-retail-energy-storage-market-acceleration-in-2121651/",
-      "link_verified_at": "2026-11-22T22:24:24+00:00",
-      "verified_fields_at": "2026-11-22T22:24:24+00:00",
-      "last_updated": "2026-11-23"
+      "link_verified_at": "2026-11-24T03:09:40+00:00",
+      "verified_fields_at": "2026-11-24T03:09:40+00:00",
+      "last_updated": "2026-11-24"
     }
   ]
 }
