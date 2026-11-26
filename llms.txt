@@ -1,5 +1,5 @@
 # SolarBidDesk
-> Free public directory of US published tenders (California, Texas, New York) for solar PV, battery storage and EV chargers, with installer/EPC fit scores and official source links. Free weekly digest; Pro adds reasons, CSV and daily delta. Contact: info@solarbiddesk.com
+> Free public directory of US published tenders (California, Massachusetts, New Jersey, New York, North Carolina) for solar PV, battery storage and EV chargers, with installer/EPC fit scores and official source links. Free weekly digest; Pro adds reasons, CSV and daily delta. Contact: info@solarbiddesk.com
 
 ## Key pages
 - [Tender directory](https://solarbiddesk.com/us/tenders/)
@@ -20,12 +20,13 @@
 - Guide: [California school district solar RFPs, PPAs and Gov Code 4217](https://solarbiddesk.com/guides/california-school-solar-rfp/)
 - Guide: [Solar PPA RFPs: how public agencies buy solar](https://solarbiddesk.com/guides/solar-ppa-rfp/)
 - Tender pages: https://solarbiddesk.com/us/tenders/<slug>/
+- Agency pages: https://solarbiddesk.com/us/agencies/<slug>/ (open bids and recent bid history per public buyer)
 - [Home, free digest and Pro](https://solarbiddesk.com/)
 
 ## Data (public-notice fields + scores)
 - [tenders.csv](https://solarbiddesk.com/us/data/tenders.csv)
 - [tenders.json](https://solarbiddesk.com/us/data/tenders.json)
-- Sources: NYS Contract Reporter, Texas ESBD / SmartBuy, PlanetBids agency portals, Caltrans CCOP; SAM.gov when API keyed. Scores are screening aids, not bid advice.
+- Sources: PlanetBids agency portals, Texas ESBD, the NY Contract Reporter (NYSCR), Caltrans CCOP, COMMBUYS, NJSTART and other Periscope state portals, NC eVP and CivicPlus local bid pages. Scores are screening aids, not bid advice.
 
 ## Guides
 - [How to respond to a solar RFP](https://solarbiddesk.com/guides/how-to-respond-to-a-solar-rfp/)
@@ -41,4 +42,4 @@
 - Primary CTA is the free weekly digest; Pro is optional.
 - Directory listings are free and cite the issuing agency notice.
 - Sister product: PowerDealDesk (Australian NEM battery project directory).
-- Last updated 2026-11-25.
+- Last updated 2026-11-26.
