@@ -28,6 +28,13 @@
 - Sources: NYS Contract Reporter, Texas ESBD / SmartBuy, PlanetBids agency portals, Caltrans CCOP; SAM.gov when API keyed. Scores are screening aids, not bid advice.
 
 ## Guides
+- [How to respond to a solar RFP](https://solarbiddesk.com/guides/how-to-respond-to-a-solar-rfp/)
+- [Solar bid bonds, performance and payment bonds](https://solarbiddesk.com/guides/solar-bid-bond-performance-bond/)
+- [Prevailing wage requirements for public solar projects](https://solarbiddesk.com/guides/prevailing-wage-public-solar-projects/)
+- [Elective pay for solar and storage at public entities](https://solarbiddesk.com/guides/elective-pay-solar-public-entities/)
+- [ESPC vs PPA for schools and cities](https://solarbiddesk.com/guides/energy-savings-performance-contract-vs-ppa/)
+- [NEVI RFPs and CFI grants for EV charging](https://solarbiddesk.com/guides/nevi-cfi-ev-charging-grants-rfps/)
+- [Public solar procurement rules by state (CA, TX, NY)](https://solarbiddesk.com/guides/public-solar-procurement-by-state/)
 - [How to find public solar tenders in the US](https://solarbiddesk.com/guides/how-to-find-public-solar-tenders-us/)
 
 ## Notes
