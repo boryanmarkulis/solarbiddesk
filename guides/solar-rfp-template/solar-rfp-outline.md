@@ -1,6 +1,6 @@
 # Solar RFP outline (public agencies)
 
-Source: SolarBidDesk, https://solarbiddesk.com/guides/solar-rfp-template/ . Updated 2026-11-25. Checklist of what public solar RFPs usually contain. Not legal advice. Always follow the specific solicitation.
+Source: SolarBidDesk, https://solarbiddesk.com/guides/solar-rfp-template/ . Updated 2026-11-26. Checklist of what public solar RFPs usually contain. Not legal advice. Always follow the specific solicitation.
 
 ## 1. Scope and site data
 
@@ -54,4 +54,4 @@ Where and how to submit (portal or sealed), number of copies, format and page li
 - California DIR Public Works: https://www.dir.ca.gov/public-works/publicworks.html
 - NY DOL Public Work and Prevailing Wage: https://dol.ny.gov/public-work-and-prevailing-wage
 
-Free weekly digest of open CA/TX/NY solar, storage and EV RFPs: https://solarbiddesk.com/
+Free weekly digest of open US public solar, storage and EV RFPs: https://solarbiddesk.com/
