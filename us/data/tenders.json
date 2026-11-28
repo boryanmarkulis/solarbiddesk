@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26",
+  "generated": "2026-11-28",
   "count": 10,
   "tenders": [
     {
@@ -24,13 +24,13 @@
       "solicitation_id": "146674",
       "bid_number": null,
       "url": "https://solarbiddesk.com/us/tenders/ca-hd-s3203-harbor-fleet-zero-emissions-infrastructure-146674/",
-      "link_verified_at": "2026-11-26T02:11:51+00:00",
-      "verified_fields_at": "2026-11-26T02:11:51+00:00",
+      "link_verified_at": "2026-11-28T03:15:19+00:00",
+      "verified_fields_at": "2026-11-28T03:15:19+00:00",
       "due_time_conflict": null,
       "verify_method": "browser_capture",
       "evidence_captured_at": "2026-11-26T09:46:00+08:00",
       "evidence_expires": "2026-12-03T01:46:00+00:00",
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "ca-solar-panel-replacement-re-bid-148324",
@@ -54,13 +54,13 @@
       "solicitation_id": "148324",
       "bid_number": "2027PW89",
       "url": "https://solarbiddesk.com/us/tenders/ca-solar-panel-replacement-re-bid-148324/",
-      "link_verified_at": "2026-11-26T02:11:52+00:00",
-      "verified_fields_at": "2026-11-26T02:11:52+00:00",
+      "link_verified_at": "2026-11-28T03:15:21+00:00",
+      "verified_fields_at": "2026-11-28T03:15:21+00:00",
       "due_time_conflict": null,
       "verify_method": "browser_capture",
       "evidence_captured_at": "2026-11-26T09:47:00+08:00",
       "evidence_expires": "2026-12-03T01:47:00+00:00",
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568",
@@ -84,13 +84,13 @@
       "solicitation_id": "2139568",
       "bid_number": null,
       "url": "https://solarbiddesk.com/us/tenders/ny-albany-gsd-landfill-solar-pv-project-epc-services-2139568/",
-      "link_verified_at": "2026-11-26T02:13:27+00:00",
-      "verified_fields_at": "2026-11-26T02:13:27+00:00",
+      "link_verified_at": "2026-11-28T03:15:04+00:00",
+      "verified_fields_at": "2026-11-28T03:15:04+00:00",
       "due_time_conflict": null,
       "verify_method": "live_fetch",
       "evidence_captured_at": null,
       "evidence_expires": null,
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "nc-solar-and-battery-feasibility-study-3aad598c95d8f111a05a001dd80072e8",
@@ -114,13 +114,13 @@
       "solicitation_id": "3aad598c-95d8-f111-a05a-001dd80072e8",
       "bid_number": "298-FY27-CAM-RFQ-SolarFeasibilityStudy",
       "url": "https://solarbiddesk.com/us/tenders/nc-solar-and-battery-feasibility-study-3aad598c95d8f111a05a001dd80072e8/",
-      "link_verified_at": "2026-11-26T02:12:48+00:00",
-      "verified_fields_at": "2026-11-26T02:12:48+00:00",
+      "link_verified_at": "2026-11-28T03:14:33+00:00",
+      "verified_fields_at": "2026-11-28T03:14:33+00:00",
       "due_time_conflict": null,
       "verify_method": "live_fetch",
       "evidence_captured_at": null,
       "evidence_expires": null,
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "nc-request-for-qualifications-for-engineering-services-for-a-dc-cd822fb6bbe2f11184ea001dd80d92a5",
@@ -144,13 +144,13 @@
       "solicitation_id": "cd822fb6-bbe2-f111-84ea-001dd80d92a5",
       "bid_number": "487-VCW DC Fast Chargers CRTPO",
       "url": "https://solarbiddesk.com/us/tenders/nc-request-for-qualifications-for-engineering-services-for-a-dc-cd822fb6bbe2f11184ea001dd80d92a5/",
-      "link_verified_at": "2026-11-26T02:12:58+00:00",
-      "verified_fields_at": "2026-11-26T02:12:58+00:00",
+      "link_verified_at": "2026-11-28T03:14:37+00:00",
+      "verified_fields_at": "2026-11-28T03:14:37+00:00",
       "due_time_conflict": null,
       "verify_method": "live_fetch",
       "evidence_captured_at": null,
       "evidence_expires": null,
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "ny-design-services-for-rehabilitation-of-electrical-distributio-2141067",
@@ -174,13 +174,13 @@
       "solicitation_id": "2141067",
       "bid_number": null,
       "url": "https://solarbiddesk.com/us/tenders/ny-design-services-for-rehabilitation-of-electrical-distributio-2141067/",
-      "link_verified_at": "2026-11-26T02:11:48+00:00",
-      "verified_fields_at": "2026-11-26T02:11:48+00:00",
+      "link_verified_at": "2026-11-28T03:15:16+00:00",
+      "verified_fields_at": "2026-11-28T03:15:16+00:00",
       "due_time_conflict": null,
       "verify_method": "live_fetch",
       "evidence_captured_at": null,
       "evidence_expires": null,
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "ny-land-lease-development-opportunities-for-energy-storage-2136537",
@@ -204,13 +204,13 @@
       "solicitation_id": "2136537",
       "bid_number": null,
       "url": "https://solarbiddesk.com/us/tenders/ny-land-lease-development-opportunities-for-energy-storage-2136537/",
-      "link_verified_at": "2026-11-26T02:13:17+00:00",
-      "verified_fields_at": "2026-11-26T02:13:17+00:00",
+      "link_verified_at": "2026-11-28T03:14:54+00:00",
+      "verified_fields_at": "2026-11-28T03:14:54+00:00",
       "due_time_conflict": null,
       "verify_method": "live_fetch",
       "evidence_captured_at": null,
       "evidence_expires": null,
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "",
@@ -234,13 +234,13 @@
       "solicitation_id": "www.millvillenj.gov:243",
       "bid_number": null,
       "url": "https://www.millvillenj.gov/bids.aspx?bidID=243",
-      "link_verified_at": "2026-11-26T02:12:26+00:00",
-      "verified_fields_at": "2026-11-26T02:12:26+00:00",
+      "link_verified_at": "2026-11-28T03:14:17+00:00",
+      "verified_fields_at": "2026-11-28T03:14:17+00:00",
       "due_time_conflict": null,
       "verify_method": "live_fetch",
       "evidence_captured_at": null,
       "evidence_expires": null,
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "",
@@ -264,13 +264,13 @@
       "solicitation_id": "BD-26-2279-CLC-CLC-134672",
       "bid_number": null,
       "url": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-26-2279-CLC-CLC-134672&external=true&parentUrl=close",
-      "link_verified_at": "2026-11-26T02:12:05+00:00",
-      "verified_fields_at": "2026-11-26T02:12:05+00:00",
+      "link_verified_at": "2026-11-28T03:13:44+00:00",
+      "verified_fields_at": "2026-11-28T03:13:44+00:00",
       "due_time_conflict": null,
       "verify_method": "live_fetch",
       "evidence_captured_at": null,
       "evidence_expires": null,
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     },
     {
       "slug": "",
@@ -294,13 +294,13 @@
       "solicitation_id": "BD-27-1693-192MP-192MP-135489",
       "bid_number": null,
       "url": "https://www.commbuys.com/bso/external/bidDetail.sda?docId=BD-27-1693-192MP-192MP-135489&external=true&parentUrl=close",
-      "link_verified_at": "2026-11-26T02:12:07+00:00",
-      "verified_fields_at": "2026-11-26T02:12:07+00:00",
+      "link_verified_at": "2026-11-28T03:13:46+00:00",
+      "verified_fields_at": "2026-11-28T03:13:46+00:00",
       "due_time_conflict": "official fields disagree on the time: 2:00 PM vs 12:00 PM",
       "verify_method": "live_fetch",
       "evidence_captured_at": null,
       "evidence_expires": null,
-      "last_updated": "2026-11-26"
+      "last_updated": "2026-11-28"
     }
   ]
 }
